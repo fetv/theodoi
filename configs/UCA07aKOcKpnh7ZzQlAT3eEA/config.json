@@ -1,0 +1,19 @@
+{
+  "youtube_channel_id": "UCA07aKOcKpnh7ZzQlAT3eEA",
+  "youtube_api_key": "AIzaSyA_hiF8kxgaaCyH7e6XpsiyUTR07CMZjEc;AIzaSyAuFTKm4sRBU4qXV_khY4qsvpI5WYJiVKw;AIzaSyAtiUPIEaks_cK7p_uIba-lzNAqSagcvQs;AIzaSyC0fAoFjCDXWpIZV2iuclBW4zWuCTGWuxs",
+  "api_scan_method": "parallel",
+  "youtube_api_type": "activities",
+  "telegram": "7387987323|8440415534:AAEgvdfr5aSBbuUCWVUG0oXPLrNxCAcyquU",
+  "proxy": "",
+  "username": "",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36",
+  "view_port": "1920x1080",
+  "video_format": "18/93/best[height<=640]/best",
+  "render_video_method": "repeat",
+  "detect_video": "both",
+  "is_new_second": 15,
+  "scan_interval": 0.5,
+  "is_human": 0,
+  "upload_method": "browser",
+  "region": "ap-northeast-3"
+}
